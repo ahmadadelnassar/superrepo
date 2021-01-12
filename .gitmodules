@@ -1,0 +1,3 @@
+[submodule "idc5_testrepocheck"]
+	path = idc5_testrepocheck
+	url = ssh://git@sourcecode01.de.bosch.com:7999/metrics_tooling/idc5_testrepocheck.git
